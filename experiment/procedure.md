@@ -2,15 +2,15 @@
 
 <br>
 
-* <b>Buffers and Reagents</b>:
-* <b>Protein Sample</b>: Lyophilized protein sample. Protein sample should contain 2.5–3 mg of total protein at a concentration of 1.3 –1.5 mg/ml.
-* <b>Rehydration/Sample Buffer</b>: Rehydration buffer consists of 10 ml of 8 M urea, 50 mM dithiothreitol (DTT), 2% CHAPS, 0.2% (w/v) Bio-Lyte® 3/10 ampholytes, and trace of Bromophenol Blue.
-* <b>Nanopure Water</b>: Autoclaved milli-q water.
-* <b>Equilibration Buffer I</b>: Equilibration buffer I consists of 20 ml of 6 M urea, 2% SDS, 0.375 M Tris-HCl (pH 8.8), 20% glycerol, and 2% (w/v) DTT.
-* <b>Equilibration Buffer II</b>: Equilibration buffer II consists of 20 ml of 6 M urea, 2% SDS, 0.375 M Tris-HCl (pH 8.8), and 20% glycerol.
-* 30 % Glycerol Solution:
-* <b>Iodoacetamide</b>: 0.5 gram of an ultrapure iodoacetamide
-* <b>Overlay Agarose</b> Consists of 50 ml of 0.5% low melting point agarose in 25 mM Tris, 192 mM glycine, 0.1% SDS, and a trace of Bromophenol Blue.
+* <b>Buffers and Reagents</b>: <br>
+* <b>Protein Sample</b>: Lyophilized protein sample. Protein sample should contain 2.5–3 mg of total protein at a concentration of 1.3 –1.5 mg/ml. <br>
+* <b>Rehydration/Sample Buffer</b>: Rehydration buffer consists of 10 ml of 8 M urea, 50 mM dithiothreitol (DTT), 2% CHAPS, 0.2% (w/v) Bio-Lyte® 3/10 ampholytes, and trace of Bromophenol Blue. <br>
+* <b>Nanopure Water</b>: Autoclaved milli-q water. <br>
+* <b>Equilibration Buffer I</b>: Equilibration buffer I consists of 20 ml of 6 M urea, 2% SDS, 0.375 M Tris-HCl (pH 8.8), 20% glycerol, and 2% (w/v) DTT. <br>
+* <b>Equilibration Buffer II</b>: Equilibration buffer II consists of 20 ml of 6 M urea, 2% SDS, 0.375 M Tris-HCl (pH 8.8), and 20% glycerol. <br>
+* 30 % Glycerol Solution: <br>
+* <b>Iodoacetamide</b>: 0.5 gram of an ultrapure iodoacetamide <br>
+* <b>Overlay Agarose</b> Consists of 50 ml of 0.5% low melting point agarose in 25 mM Tris, 192 mM glycine, 0.1% SDS, and a trace of Bromophenol Blue. <br>
 
 #### Step-1 Sample Application During Rehydration:
 
