@@ -1,7 +1,8 @@
 ### Procedure
 
 <br>
-* Buffers and Reagents:
+
+* <b>Buffers and Reagents</b>:
 * <b>Protein Sample</b>: Lyophilized protein sample. Protein sample should contain 2.5–3 mg of total protein at a concentration of 1.3 –1.5 mg/ml.
 * <b>Rehydration/Sample Buffer</b>: Rehydration buffer consists of 10 ml of 8 M urea, 50 mM dithiothreitol (DTT), 2% CHAPS, 0.2% (w/v) Bio-Lyte® 3/10 ampholytes, and trace of Bromophenol Blue.
 * <b>Nanopure Water</b>: Autoclaved milli-q water.
