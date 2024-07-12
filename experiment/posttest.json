@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": " In a 2D gel where each spot represents a protein of a particular pI value and molecular weight, what will be your inference about two proteins whose positions are horizontal to each other in the gel?:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "They have same molecular weight but different pI value.",
+        "b": "They have same pI value but different molecular weight.",
+        "c": "They have same pI value and same molecular weight.",
+        "d": "They have different pI values and different molecular weight."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " If you perform electrophoresis of histones and myoglobins having pI 8.5 and 5.5 respectively, under denaturing conditions at pH 7.0, what will be the migration pattern of these proteins? :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "histones will migrate towards the cathode (-); myoglobin will migrate towards the anode (+)",
+        "b": "myoglobins will migrate towards the cathode (-); histones will migrate towards the anode (+)",
+        "c": "both will migrate towards the cathode",
+        "d": "both will migrate towards the anode"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
