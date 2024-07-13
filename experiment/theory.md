@@ -12,7 +12,7 @@ Following steps are involved in a successful 2D gel electrophoresis.
 
 So, even though the name of 2D gel electrophoresis suggest a two-step process, it’s a five step process as follows :
 
-<img src="images/img3.png" width="600px">
+<br><div style="text-align: center;"><img src="images/img3.png" width="600px"></div>
 
 <b>Sample preparation:</b> In order to characterize specific proteins in a complex mixture of proteins, the proteins of interest should be completely solubilised before loading onto IEF gel. Different proteins require different treatments and conditions to get solubilised. First thing to be kept in mind is that charge of proteins should not get altered in anyway. So, charged detergents such as SDS cannot be used for solubilising proteins. Therefore, uncharged chemicals are used for extracting cellular proteins and denature them keeping in solution. IEF compatible lysis reagents such as neutral detergents like CHAPS, and chaotropes like Urea are used. Mostly combination of detergents and chaotropes is used for solubilisation of proteins. The effectiveness of solubilisation depends on many factors like cell disruption technique, protein concentration and dissolution technique, detergents, and composition of sample. Thus, sample specific optimization is required for this step to avoid any protein loss.
 
