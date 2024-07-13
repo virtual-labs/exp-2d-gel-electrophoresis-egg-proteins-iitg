@@ -70,4 +70,4 @@ Analysis of 2D-gel images is done using softwares that detect and measure the in
 
 <b>Results</b><br>
 
-<img src="images/img1.png" width="400px" height="400">
+<br><div style="text-align: center;"><img src="images/img1.png" width="400px" height="400"></div>
