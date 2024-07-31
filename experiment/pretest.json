@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In 2D gel electrophoresis, the second-dimension separation is performed at what angle relative to the first-dimension separation? :",
+      "question": "1. In 2D gel electrophoresis, the second-dimension separation is performed at what angle relative to the first-dimension separation? :",
       "answers": {
         "a": "180°",
         "b": "90°",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following stains used for staining proteins in 2D gel electrophoresis is incompatible with mass spectrometry?:",
+      "question": "2. Which of the following stains used for staining proteins in 2D gel electrophoresis is incompatible with mass spectrometry?:",
       "answers": {
         "a": "Silver stain",
         "b": "Coomassie blue",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In 2D gel electrophoresis, proteins are separated based on _____ in first dimension and based on _____ in second dimension.:",
+      "question": "3. In 2D gel electrophoresis, proteins are separated based on _____ in first dimension and based on _____ in second dimension.:",
       "answers": {
         "a": "Molecular weight, Isoelectric point",
         "b": "Molecular weight, shape",
@@ -49,7 +49,7 @@
         "c": "",
         "d": ""
       },
-      "correctAnswer": "d",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
