@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " In a 2D gel where each spot represents a protein of a particular pI value and molecular weight, what will be your inference about two proteins whose positions are horizontal to each other in the gel?:",
+      "question": "1. In a 2D gel where each spot represents a protein of a particular pI value and molecular weight, what will be your inference about two proteins whose positions are horizontal to each other in the gel?:",
       "answers": {
         "a": "They have same molecular weight but different pI value.",
         "b": "They have same pI value but different molecular weight.",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": " If you perform electrophoresis of histones and myoglobins having pI 8.5 and 5.5 respectively, under denaturing conditions at pH 7.0, what will be the migration pattern of these proteins? :",
+      "question": "2. If you perform electrophoresis of histones and myoglobins having pI 8.5 and 5.5 respectively, under denaturing conditions at pH 7.0, what will be the migration pattern of these proteins? :",
       "answers": {
         "a": "histones will migrate towards the cathode (-); myoglobin will migrate towards the anode (+)",
         "b": "myoglobins will migrate towards the cathode (-); histones will migrate towards the anode (+)",
