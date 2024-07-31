@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. In 2D gel electrophoresis, the second-dimension separation is performed at what angle relative to the first-dimension separation? :",
+      "answers": {
+        "a": "180°",
+        "b": "90°",
+        "c": "60°",
+        "d": "30°"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which of the following stains used for staining proteins in 2D gel electrophoresis is incompatible with mass spectrometry?:",
+      "answers": {
+        "a": "Silver stain",
+        "b": "Coomassie blue",
+        "c": "SYPRO Ruby",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In 2D gel electrophoresis, proteins are separated based on _____ in first dimension and based on _____ in second dimension.:",
+      "answers": {
+        "a": "Molecular weight, Isoelectric point",
+        "b": "Molecular weight, shape",
+        "c": "Isoelectric point, Molecular weight",
+        "d": "Shape, Isoelectric point"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which of the following reagents is commonly used for solubilizing proteins in the sample preparation step of 2D gel electrophoresis?",
+      "answers": {
+        "a": "SDS",
+        "b": "CHAPS",
+        "c": "Ethanol",
+        "d": "Acetic acid"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Isoelectric focusing (IEF) separates proteins based on their: ",
+      "answers": {
+        "a": "Molecular weight",
+        "b": "Charge-to-mass ratio",
+        "c": "Isoelectric point (pI)",
+        "d": "Hydrophobicity"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. In the equilibration step of 2D gel electrophoresis, what purpose does the SDS buffer serve?",
+      "answers": {
+        "a": "It neutralizes the protein charges.",
+        "b": "It coats the proteins with a negative charge.",
+        "c": "It removes proteins from the gel.",
+        "d": "It fixes the proteins in place."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. One of the disadvantages of 2D gel electrophoresis is:",
+      "answers": {
+        "a": "Limited dynamic range",
+        "b": "Inability to separate proteins based on molecular weight",
+        "c": "Incompatibility with mass spectrometry",
+        "d": "Poor sensitivity in detecting proteins"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. What is the primary reason for equilibrating the IEF gel or IPG strip in SDS buffer before SDS-PAGE? ",
+      "answers": {
+        "a": "To neutralize the pH",
+        "b": "To coat the proteins with SDS and ensure uniform negative charge",
+        "c": "To fix the proteins in place",
+        "d": "To remove any remaining carrier ampholytes"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. What is the primary limitation of 2D gel electrophoresis compared to other proteomic techniques?",
+      "answers": {
+        "a": "It cannot separate proteins by isoelectric point",
+        "b": "It has a limited dynamic range and lower reproducibility",
+        "c": "It cannot analyze protein complexes",
+        "d": "It is incompatible with mass spectrometry"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Which of the following best describes the second dimension of 2D gel electrophoresis (SDS-PAGE)?",
+      "answers": {
+        "a": "Separation of proteins based on their isoelectric point",
+        "b": "Separation of proteins based on their hydrophobicity",
+        "c": "Separation of proteins based on their molecular weight",
+        "d": "Separation of proteins based on their charge-to-mass ratio"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
