@@ -34,6 +34,142 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "3. Why is mineral oil added over the IPG strips during rehydration?",
+      "answers": {
+        "a": "To prevent evaporation",
+        "b": "To provide a uniform charge",
+        "c": "To stain the proteins",
+        "d": "To denature the proteins"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. In which buffer are the IPG strips equilibrated first before the second-dimension separation?",
+      "answers": {
+        "a": "Equilibration Buffer I",
+        "b": "Equilibration Buffer II",
+        "c": "Rehydration/Sample Buffer",
+        "d": "SDS-PAGE Running Buffer"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What temperature is maintained during isoelectric focusing?",
+      "answers": {
+        "a": "10°C",
+        "b": "15°C",
+        "c": "20°C",
+        "d": "25°C"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. What type of gel is typically used for the second dimension in SDS-PAGE?",
+      "answers": {
+        "a": "4-12% gradient polyacrylamide gel",
+        "b": "8-16% polyacrylamide gel",
+        "c": "10% agarose gel",
+        "d": "20% polyacrylamide gel"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which step in the 2D gel electrophoresis procedure ensures that proteins are denatured and coated with a uniform negative charge?",
+      "answers": {
+        "a": "Rehydration",
+        "b": "Isoelectric focusing",
+        "c": "Equilibration",
+        "d": "Staining"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which type of proteins can be analyzed using 2D gel electrophoresis?",
+      "answers": {
+        "a": "Only membrane proteins",
+        "b": "Only cytoplasmic proteins",
+        "c": "Both membrane and soluble proteins",
+        "d": "Only extracellular proteins"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. How are proteins visualized after SDS-PAGE?",
+      "answers": {
+        "a": "By UV illumination",
+        "b": "By staining with Coomassie Brilliant Blue or other dyes",
+        "c": "By fluorescence microscopy",
+        "d": "By electron microscopy"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is the typical pH range of IPG strips used for isoelectric focusing?",
+      "answers": {
+        "a": "3-5",
+        "b": "4-7",
+        "c": "5-8",
+        "d": "6-9"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
